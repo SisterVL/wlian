@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wlian:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/wlian_war</output-path>
+    <root id="archive" name="wlian_war.war">
+      <element id="artifact" artifact-name="wlian:war exploded" />
+    </root>
+  </artifact>
+</component>
